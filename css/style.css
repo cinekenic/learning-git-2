@@ -6,6 +6,10 @@
     margin: 0 auto;
 }
 
+h1{
+    color: blueviolet;
+}
+
 .song h2{
     font-style: italic;
 }
